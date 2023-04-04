@@ -4,3 +4,5 @@
 - 3. setTimeout を使ってタイマーを実装
 - 4. file を base64 に変更
 - 5. ResizeObserver で card が 4:3 の比率になるように監視
+- 6. canvas にお絵描きできるようにしてみる
+  - 6 - 1 お絵描きした canvas をダウンロードできるようにする
