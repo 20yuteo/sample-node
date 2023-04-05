@@ -6,4 +6,4 @@
 - 5. ResizeObserver で card が 4:3 の比率になるように監視
 - 6. canvas にお絵描きできるようにしてみる
   - 6 - 1 お絵描きした canvas をダウンロードできるようにする
-  - https://developer.mozilla.org/ja/docs/Web/HTML/Element/a
+  - https://qiita.com/amabie-mamoru/items/af1f7c7d0877022dbe89
