@@ -1,6 +1,7 @@
 - 1. アップロードされた画像プレビュー機能を追加
   - https://qiita.com/sand/items/9992c7dea7c985b86075
 - 2. csv ファイルのダウンロード機能を実装
+  - https://qiita.com/sand/items/9992c7dea7c985b86075
 - 3. setTimeout を使ってタイマーを実装
 - 4. file を base64 に変更
 - 5. ResizeObserver で card が 4:3 の比率になるように監視
